@@ -54,5 +54,6 @@
 - [How to Write a clear Math Paper](writing/how_to_write_a_clear_math_paper_igor_pak.pdf)
   - Author: Igor Pak
 - [Mathematical Writing](writing/mathematical_writing_hammack.pdf)
-  - Authors: Donald Knuth, Tracy Larrabee, Paul Roberts
+  - Author: Richard Hammack
 - [Mathematical Writing](writing/mathematical_writing_knuth_larrabee_roberts.pdf)
+  - Authors: Donald Knuth, Tracy Larrabee, Paul Roberts
