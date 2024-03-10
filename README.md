@@ -46,3 +46,13 @@
 - **PreTeXt Google Group**
   - A discussion forum for users of PreTeXt.
   - [Join the PreTeXt Google Group](https://groups.google.com/g/pretext-support)
+
+### Writing
+
+- [Advice on Mathematical Writing](writing/advice_on_mathematical_writing_keith_conrad.pdf)
+  - Author: Keith Conrad
+- [How to Write a clear Math Paper](writing/how_to_write_a_clear_math_paper_igor_pak.pdf)
+  - Author: Igor Pak
+- [Mathematical Writing](writing/mathematical_writing_hammack.pdf)
+  - Authors: Donald Knuth, Tracy Larrabee, Paul Roberts
+- [Mathematical Writing](writing/mathematical_writing_knuth_larrabee_roberts.pdf)
