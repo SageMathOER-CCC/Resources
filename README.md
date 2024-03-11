@@ -26,6 +26,9 @@
 - **SageMath Official Website**
   [Visit SageMath](http://www.sagemath.org)
 
+- **Sage Quickstart for Graph Theory and Discrete Mathematics**
+  [Visit SageMath](https://doc.sagemath.org/html/en/prep/Quickstarts/Graphs-and-Discrete.html#)
+
 - **SageMath Documentation**
   [Access Documentation](http://doc.sagemath.org/)
 
