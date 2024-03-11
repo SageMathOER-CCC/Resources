@@ -8,7 +8,7 @@
 
 - **Algorithmic Graph Theory and Sage**
   - Authors: David Joyner, Minh Van Nguyen, David Phillips
-  - Website: [Algorithmic Graph Theory](https://archive.org/details/flooved3435)
+  - PDF: [Algorithmic Graph Theory](SageMath/Algorithmic_Graph_Theory_and_Sage_by_Joyner_Nguyen_Phillips.pdf)
 
 - **Applied Discrete Structures**
   - Authors: Al Doerr, Ken Levasseur
