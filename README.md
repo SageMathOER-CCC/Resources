@@ -60,3 +60,5 @@
   - Author: Richard Hammack
 - [Mathematical Writing](writing/mathematical_writing_knuth_larrabee_roberts.pdf)
   - Authors: Donald Knuth, Tracy Larrabee, Paul Roberts
+- [Google's Technical Writing Course](https://developers.google.com/tech-writing)
+  - Most sentences in technical writing should be in active voice. For more information, see the [Active voice lesson](https://developers.google.com/tech-writing/one/active-voice).
